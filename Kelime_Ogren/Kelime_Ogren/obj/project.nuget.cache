@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "djnvNoxx7Lk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barba\\OneDrive\\Masaüstü\\Udemy 2\\Kelime_Ogren\\Kelime_Ogren\\Kelime_Ogren.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barba\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\system.data.oledb\\9.0.1\\system.data.oledb.9.0.1.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.1\\system.diagnostics.eventlog.9.0.1.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.1\\system.diagnostics.performancecounter.9.0.1.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.1\\system.security.cryptography.protecteddata.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
