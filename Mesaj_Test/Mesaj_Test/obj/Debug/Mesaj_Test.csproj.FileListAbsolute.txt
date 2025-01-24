@@ -1,0 +1,11 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\bin\Debug\Mesaj_Test.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\bin\Debug\Mesaj_Test.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\bin\Debug\Mesaj_Test.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.Form2.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Mesaj_Test\Mesaj_Test\obj\Debug\Mesaj_Test.pdb
