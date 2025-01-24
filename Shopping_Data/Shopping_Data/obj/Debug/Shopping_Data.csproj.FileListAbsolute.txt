@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\bin\Debug\Shopping_Data.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\bin\Debug\Shopping_Data.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\bin\Debug\Shopping_Data.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Shopping_Data\Shopping_Data\obj\Debug\Shopping_Data.pdb
