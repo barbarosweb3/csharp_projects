@@ -7,50 +7,80 @@ Collection of C# projects developed during Murat Yücedağ's "C# Projects" cours
 
 ### Projects
 
-#### 1. Film Archive System
-Windows Forms application for film collection management
-- Add/list movies with details
-- WebView2 integration for video playback
+#### 1. Film Archive System (Film_Arsivim)
+- Movie collection management with details
+- WebView2 video integration
 - Dynamic color themes
-- Full-screen video support
 - SQL Server integration
 
-#### 2. Exchange Office Application
-Real-time currency exchange tracking system
+#### 2. Exchange Office (Doviz_Ofisi)
+- Real-time currency exchange rates
 - Central Bank XML integration
-- Currency conversion calculations
-- Buy/Sell rate management
-- Transaction history logging
+- Transaction history
 - SQL Server integration
 
-#### 3. Student Grade Recording System
-Comprehensive grade management system
+#### 3. Grade Recording System (Not_Kayit_Sistemi)
 - Student information management
-- Grade tracking and entry
+- Grade tracking and reporting
 - Statistical analysis
-- Report generation
 - Database integration
 
 #### 4. Word Game (Passaparola)
-Interactive word game based on TV show format
-- Question-answer system
+- Interactive Q&A system
 - Score tracking
 - Timer functionality
-- Interactive UI
 
-#### 5. Election Statistics System
-Election data visualization platform
+#### 5. Election Statistics System (Veri_Tabanli_Parti_Secim_Grafik_Istatistik)
 - Real-time vote counting
 - Graphical statistics
 - District-based results
-- Database integration
-- Dynamic reporting
+
+#### 6. Contact Management (Rehber)
+- Contact information storage
+- SQL and MongoDB integration
+- Search functionality
+
+#### 7. Database Query App (SorguTest)
+- Custom SQL query execution
+- Results visualization
+- Database management
+
+#### 8. Message System (Mesaj_Test)
+- Message sending/receiving
+- User management
+- Real-time updates
+
+#### 9. Shopping Data Management (Shopping_Data)
+- Product tracking
+- Inventory management
+- Sales reporting
+
+#### 10. 2D Object Movement (Proje_Nesne_Hareketler)
+- Object manipulation in labyrinth
+- Collision detection
+- Movement controls
+
+#### 11. Vocabulary Game (Kelime_Ogren)
+- Language learning tools
+- Progress tracking
+- Interactive exercises
+
+#### 12. Transaction System (Hareket)
+- Relational database implementation
+- Transaction logging
+- Query optimization
+
+#### 13. Encrypted Data (Sifreli_Veriler)
+- Database value encryption
+- Secure storage
+- Lock/unlock functionality
 
 ### Technologies
 - C# Programming Language
 - .NET Framework
 - Windows Forms
 - MS SQL Server
+- MongoDB
 - Visual Studio IDE
 - WebView2
 - XML Integration
@@ -71,6 +101,7 @@ git clone https://github.com/barbarosweb3/csharp_projects.git
 - Visual Studio 2022+
 - .NET Framework 4.8+
 - MS SQL Server 2019+
+- MongoDB (for Contact project)
 - WebView2 Runtime (Film Archive project)
 
 ### Contributing
@@ -89,50 +120,80 @@ Murat Yücedağ'ın "C# Projeleri" kursunun parçası olarak geliştirilen C# pr
 
 ### Projeler
 
-#### 1. Film Arşiv Sistemi
-Film koleksiyonu için Windows Forms uygulaması
-- Film ekleme ve listeleme
-- WebView2 ile video izleme
+#### 1. Film Arşiv Sistemi (Film_Arsivim)
+- Film koleksiyonu yönetimi
+- WebView2 video entegrasyonu
 - Dinamik renk temaları
-- Tam ekran video oynatma
 - SQL Server entegrasyonu
 
-#### 2. Döviz Ofisi Uygulaması
-Gerçek zamanlı döviz takip sistemi
+#### 2. Döviz Ofisi (Doviz_Ofisi)
+- Gerçek zamanlı döviz kurları
 - Merkez Bankası XML entegrasyonu
-- Döviz çevirme işlemleri
-- Alış/Satış kuru yönetimi
 - İşlem geçmişi
 - SQL Server entegrasyonu
 
-#### 3. Not Kayıt Sistemi
-Kapsamlı not yönetim sistemi
+#### 3. Not Kayıt Sistemi (Not_Kayit_Sistemi)
 - Öğrenci bilgi yönetimi
-- Not girişi ve takibi
+- Not takibi ve raporlama
 - İstatistiksel analiz
-- Rapor oluşturma
 - Veritabanı entegrasyonu
 
-#### 4. Passaparola Oyunu
-TV programından esinlenen kelime oyunu
-- Soru-cevap sistemi
+#### 4. Kelime Oyunu (Passaparola)
+- İnteraktif soru-cevap sistemi
 - Puan takibi
-- Zamanlayıcı
-- İnteraktif arayüz
+- Zamanlayıcı özelliği
 
-#### 5. Seçim İstatistik Sistemi
-Seçim veri görselleştirme platformu
+#### 5. Seçim İstatistik Sistemi (Veri_Tabanli_Parti_Secim_Grafik_Istatistik)
 - Gerçek zamanlı oy sayımı
 - Grafiksel istatistikler
 - İlçe bazlı sonuçlar
-- Veritabanı entegrasyonu
-- Dinamik raporlama
+
+#### 6. Rehber Uygulaması (Rehber)
+- Kişi bilgisi saklama
+- SQL ve MongoDB entegrasyonu
+- Arama fonksiyonu
+
+#### 7. Veritabanı Sorgu Uygulaması (SorguTest)
+- Özel SQL sorgu çalıştırma
+- Sonuç görselleştirme
+- Veritabanı yönetimi
+
+#### 8. Mesajlaşma Sistemi (Mesaj_Test)
+- Mesaj gönderme/alma
+- Kullanıcı yönetimi
+- Gerçek zamanlı güncellemeler
+
+#### 9. Alışveriş Veri Yönetimi (Shopping_Data)
+- Ürün takibi
+- Envanter yönetimi
+- Satış raporlama
+
+#### 10. 2B Nesne Hareketi (Proje_Nesne_Hareketler)
+- Labirentte nesne manipülasyonu
+- Çarpışma tespiti
+- Hareket kontrolleri
+
+#### 11. Kelime Oyunu (Kelime_Ogren)
+- Dil öğrenme araçları
+- İlerleme takibi
+- İnteraktif alıştırmalar
+
+#### 12. İşlem Sistemi (Hareket)
+- İlişkisel veritabanı uygulaması
+- İşlem kaydı
+- Sorgu optimizasyonu
+
+#### 13. Şifreli Veriler (Sifreli_Veriler)
+- Veritabanı değer şifreleme
+- Güvenli depolama
+- Kilitleme/kilit açma fonksiyonu
 
 ### Teknolojiler
 - C# Programlama Dili
 - .NET Framework
 - Windows Forms
 - MS SQL Server
+- MongoDB
 - Visual Studio IDE
 - WebView2
 - XML Entegrasyonu
@@ -153,6 +214,7 @@ git clone https://github.com/barbarosweb3/csharp_projects.git
 - Visual Studio 2022+
 - .NET Framework 4.8+
 - MS SQL Server 2019+
+- MongoDB (Rehber projesi için)
 - WebView2 Runtime (Film Arşivi projesi için)
 
 ### Katkıda Bulunma
