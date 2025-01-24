@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\bin\Debug\SorguTest.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\bin\Debug\SorguTest.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\bin\Debug\SorguTest.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\SorguTest\SorguTest\obj\Debug\SorguTest.pdb
