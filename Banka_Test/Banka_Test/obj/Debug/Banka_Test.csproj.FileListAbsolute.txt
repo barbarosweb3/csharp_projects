@@ -1,0 +1,13 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\bin\Debug\Banka_Test.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\bin\Debug\Banka_Test.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\bin\Debug\Banka_Test.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.Form2.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.Form3.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Banka_Test\Banka_Test\obj\Debug\Banka_Test.Hareketleri_Goster.resources
