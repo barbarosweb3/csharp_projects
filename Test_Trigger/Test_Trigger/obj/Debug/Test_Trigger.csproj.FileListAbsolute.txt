@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\bin\Debug\Test_Trigger.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\bin\Debug\Test_Trigger.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\bin\Debug\Test_Trigger.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy 2\Test_Trigger\Test_Trigger\obj\Debug\Test_Trigger.pdb
